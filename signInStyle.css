@@ -1,0 +1,45 @@
+body {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+
+}
+
+body {
+    background-image: url('images/sign\ in\ bg.png');
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+
+.topBarText {
+    font-family: 'Outfit', sans-serif;
+    font-family: 'Poppins', sans-serif;
+    font-family: 'Satisfy', cursive;
+}
+
+.topBar:hover {
+    background-color: #a3e68d;
+    color: rgb(255, 255, 255);
+
+}
+
+.signUp {
+    color: #9bd32c;
+}
+
+button {
+    text-decoration: none;
+    background-color: #9bd32c;
+    border: 0cap;
+    color: aliceblue;
+}
+
+button:hover {
+    text-decoration: none;
+    background-color: #009933;
+    color: aliceblue;
+}
+
+.signIn {
+    color: #9bd32c;
+}
